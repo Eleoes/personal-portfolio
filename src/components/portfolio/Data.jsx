@@ -1,39 +1,31 @@
 import HooBank from "../../assets/HooBank.png";
 import PlantPH from "../../assets/PlantPH.png";
 import UQuiz from "../../assets/UQuiz.png";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
 
 export const projectsData = [
     {
     id: 1,
     image: PlantPH,
-    title: "Mobile App",
-    category: "App",
+    title: "Plant Parenthood",
+    category: "Fullstack",
+    url: 'https://plantph.herokuapp.com/',
+    code: 'https://github.com/Eleoes/plant_parenthood',
     },
     {
     id: 2,
     image: UQuiz,
-    title: "Desktop App",
-    category: "App",
+    title: "UQuiz",
+    category: "Fullstack",
+    url:'https://uquiz-project.netlify.app/',
+    code: 'https://github.com/Eleoes/UQuiz',
     },
     {
     id: 3,
     image: HooBank,
-    title: "Web Design",
-    category: "Web",
-    },
-    {
-    id: 4,
-    image: Work4,
-    title: "App movil",
-    category: "App",
-    },
-    {
-    id: 5,
-    image: Work5,
-    title: "Web design",
-    category: "Web",
+    title: "HooBank",
+    category: "Frontend",
+    url: 'https://reactful-project.com/',
+    code: 'https://github.com/Eleoes/bank_app',
     },
 ];
 
@@ -42,12 +34,12 @@ export const projectsNav = [
         name: 'All',
     },
     {
-        name: 'Web',
+        name: 'Fullstack',
     },
     {
-        name: 'App',
+        name: 'Frontend',
     },
     {
-        name: 'Design',
+        name: 'Other',
     },
 ];
