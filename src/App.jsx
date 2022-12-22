@@ -5,6 +5,8 @@ import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
+import Footer from './components/footer/Footer';
+import Scrollup from './components/scrollup/Scrollup';
 
 const App = () => {
   return (
@@ -18,6 +20,8 @@ const App = () => {
       <Services />
       <Portfolio />
     </main>
+    <Footer />
+    <Scrollup />
     </>
   )
 }
