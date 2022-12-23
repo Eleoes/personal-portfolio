@@ -83,18 +83,33 @@
 /*=============== BREAKPOINTS ===============*/
 /* For large devices */
 @media screen and (max-width: 992px) {
-
+    .journey__container {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 /* For medium devices */
 @media screen and (max-width: 768px) {
-
+    .journey__container {
+        margin-left: var(--mb-1-5);
+        margin-right: var(--mb-1-5);
+    }
 }
 
 @media screen and (max-width: 576px) {
+    .journey__sections {
+        grid-template-columns: initial;
+    }
+
+    .journey__button {
+        margin: 0 var(--mb-0-75);
+    }
 }
 
 /* For small devices */
 @media screen and (max-width: 350px) {
-
+    .journey__data {
+        gap: 0.5rem;
+    }
 }
