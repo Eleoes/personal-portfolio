@@ -30,10 +30,10 @@ const Journey = () => {
                     <div className={toggleState === 1 ? "journey__content journey__content-active" : "journey__content"}>
                         <div className="journey__data">
                             <div>
-                                <h3 className="journey__title">Web Design</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Software Engineering</h3>
+                                <span className="journey__subtitle">General Assembly</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - Present
+                                    <i className="uil uil-calendar-alt"></i>May - Oct 2022
                                 </div>
                             </div>
 
@@ -52,20 +52,20 @@ const Journey = () => {
                             </div>
 
                             <div>
-                                <h3 className="journey__title">Art Director</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Construction Management</h3>
+                                <span className="journey__subtitle">SFSU</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - Present
+                                    <i className="uil uil-calendar-alt"></i>Spring 2020
                                 </div>
                             </div>
                         </div>
 
                         <div className="journey__data">
                             <div>
-                                <h3 className="journey__title">Web Development</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">B. Architecture</h3>
+                                <span className="journey__subtitle">ITESM Monterrey</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2018 - 2020
+                                    <i className="uil uil-calendar-alt"></i>2009 - 2014
                                 </div>
                             </div>
 
@@ -84,10 +84,10 @@ const Journey = () => {
                             </div>
 
                             <div>
-                                <h3 className="journey__title">UX Expert</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Japanese Language</h3>
+                                <span className="journey__subtitle">外語ビジネス専門学校</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2017 - 2018
+                                    <i className="uil uil-calendar-alt"></i>2008 - 2009
                                 </div>
                             </div>
                         </div>
@@ -96,10 +96,10 @@ const Journey = () => {
                     <div className={toggleState === 2 ? "journey__content journey__content-active" : "journey__content"}>
                         <div className="journey__data">
                             <div>
-                                <h3 className="journey__title">Architecture</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Student</h3>
+                                <span className="journey__subtitle">General Assembly</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - Present
+                                    <i className="uil uil-calendar-alt"></i>2022
                                 </div>
                             </div>
 
@@ -118,20 +118,20 @@ const Journey = () => {
                             </div>
 
                             <div>
-                                <h3 className="journey__title">Art Director</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Project Manager</h3>
+                                <span className="journey__subtitle">Baran Studio</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2021 - Present
+                                    <i className="uil uil-calendar-alt"></i>July 2021 - Present
                                 </div>
                             </div>
                         </div>
 
                         <div className="journey__data">
                             <div>
-                                <h3 className="journey__title">Web Development</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Designer</h3>
+                                <span className="journey__subtitle">Baran Studio</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2018 - 2020
+                                    <i className="uil uil-calendar-alt"></i>Feb 2018 - Jun 2021
                                 </div>
                             </div>
 
@@ -150,10 +150,10 @@ const Journey = () => {
                             </div>
 
                             <div>
-                                <h3 className="journey__title">UX Expert</h3>
-                                <span className="journey__subtitle">Spain-Institute</span>
+                                <h3 className="journey__title">Designer</h3>
+                                <span className="journey__subtitle">BantaDESIGN</span>
                                 <div className="journey__calendar">
-                                    <i className="uil uil-calendar-alt"></i>2017 - 2018
+                                    <i className="uil uil-calendar-alt"></i>May 2015 - Jan 2018
                                 </div>
                             </div>
                         </div>

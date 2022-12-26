@@ -4,21 +4,21 @@ const Info = () => {
     return (
         <div className="about__info grid">
             <div className="about__box">
-            <i class='bx bx-award about__icon'></i>
-                <h3 className="about__title">Experience</h3>
-                <span className="about__subtitle">Newcomer!</span>
+            <i class='bx bxs-leaf' ></i>
+                <h3 className="about__title">Plant Parent</h3>
+                <span className="about__subtitle">I grow plants</span>
             </div>
 
             <div className="about__box">
-            <i class='bx bx-briefcase-alt about__icon'></i>
-                <h3 className="about__title">Completed</h3>
-                <span className="about__subtitle">3+ projects</span>
+            <i class='bx bxs-keyboard' ></i>
+                <h3 className="about__title">Web Dev</h3>
+                <span className="about__subtitle">I code</span>
             </div>
 
             <div className="about__box">
-            <i class='bx bx-support about__icon' ></i>
-                <h3 className="about__title">Support</h3>
-                <span className="about__subtitle">Online 24/7</span>
+            <i class='bx bx-building-house' ></i>
+                <h3 className="about__title">Architect</h3>
+                <span className="about__subtitle">I design buildings</span>
             </div>
         </div>
     )

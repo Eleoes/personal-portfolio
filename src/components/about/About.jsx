@@ -17,7 +17,7 @@ const About = () => {
                     <Info />
 
                     <p className="about__description">
-                        Web developer, I create web pages ...
+                        All three things above are almost a recipe for living in Horizon (goals!), but in reality I'm a Software Engineer looking to help people through digital solutions. 
                     </p>
 
                     <a download="" href={Resume} className="button button--flex">Resume
