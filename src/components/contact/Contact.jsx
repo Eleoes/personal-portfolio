@@ -11,7 +11,7 @@ const Contact = () => {
                 <div className="contact__content">
                     <h3 className="contact__title">Tell me about your project</h3>
 
-                    <form className="contact__form">
+                    <form action="https://formsubmit.co/hello@eleoes.com" method="POST" className="contact__form">
                         <div className="contact__form-div">
                             <label className="contact__form-tag">Name</label>
                             <input type="text" name="name" className='contact__form-input' placeholder='Type your name'/>
@@ -24,9 +24,9 @@ const Contact = () => {
 
                         <div className="contact__form-div contact__form-area">
                             <label className="contact__form-tag">Project</label>
-                            <textarea name='project' cols='30' rows='10' className='contact__form-input' placeholder='Write about your project'></textarea>
+                            <textarea name='textarea' cols='30' rows='10' className='contact__form-input' placeholder='Write about your project'></textarea>
                         </div>
-                        <button className="button button--flex">
+                        <button type='submit' className="button button--flex">
                             Send Message
                             <svg
                                 class="button__icon"
