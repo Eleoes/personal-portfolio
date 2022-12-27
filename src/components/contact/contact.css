@@ -24,6 +24,7 @@
     align-items: center;
     justify-content: center;
     column-gap: 0.25rem;
+    background: none;
 }
 .contact__form {
     width: 360px;

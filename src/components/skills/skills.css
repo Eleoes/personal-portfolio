@@ -80,8 +80,4 @@
     .skills__box {
         column-gap: 1.25rem;
     }
-
-    .skills__name {
-        font-size: var(--small-font-size)
-    }
 }
