@@ -17,12 +17,12 @@ const Journey = () => {
                 <div className="journey__tabs">
                     <div className={toggleState === 1 ? "journey__button journey__active button--flex" : "journey__button button--flex"}
                         onClick={() => toggleTab(1)}>
-                        <i className="uil uil-graduation-cap journey__icon"></i> Education
+                        <i className='bx bxs-graduation journey__icon'></i> Education
                     </div>
 
                     <div className={toggleState === 2 ? "journey__button journey__active button--flex" : "journey__button button--flex"}
                         onClick={() => toggleTab(2)}>
-                        <i className="uil uil-briefcase-alt journey__icon"></i>Experience
+                        <i className='bx bxs-briefcase journey__icon' ></i>Experience
                     </div>
                 </div>
 

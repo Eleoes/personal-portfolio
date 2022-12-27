@@ -10,21 +10,21 @@ const Frontend = () => {
                 <div className="skills__group">
                     <div className="skills__data">
                         <div>
-                            <h3 className="skills__name"><i class="uil uil-html5"></i></h3>
+                            <h3 className="skills__name"><i className='bx bxl-html5' ></i></h3>
                             <span className="skills__level">HTML5</span>
                         </div>
                     </div>
 
                     <div className="skills__data">
                         <div>
-                            <h3 className="skills__name"><i class="uil uil-css3-simple"></i></h3>
+                            <h3 className="skills__name"><i className='bx bxl-css3' ></i></h3>
                             <span className="skills__level">CSS3</span>
                         </div>
                     </div>
 
                     <div className="skills__data">
                         <div>
-                            <h3 className="skills__name"><i class='bx bxl-javascript' ></i></h3>
+                            <h3 className="skills__name"><i className='bx bxl-javascript' ></i></h3>
                             <span className="skills__level">Javascript</span>
                         </div>
                     </div>
@@ -33,21 +33,21 @@ const Frontend = () => {
                 <div className="skills__group">
                     <div className="skills__data">
                         <div>
-                            <h3 className="skills__name"><i class='bx bxl-tailwind-css'></i></h3>
+                            <h3 className="skills__name"><i className='bx bxl-tailwind-css'></i></h3>
                             <span className="skills__level">Tailwind</span>
                         </div>
                     </div>
 
                     <div className="skills__data">
                         <div>
-                            <h3 className="skills__name"><i class="uil uil-github"></i></h3>
+                            <h3 className="skills__name"><i className="bx bxl-github"></i></h3>
                             <span className="skills__level">Git</span>
                         </div>
                     </div>
 
                     <div className="skills__data">
                         <div>
-                            <h3 className="skills__name"><i class="uil uil-react"></i></h3>
+                            <h3 className="skills__name"><i className="bx bxl-react"></i></h3>
                             <span className="skills__level">React</span>
                         </div>
                     </div>

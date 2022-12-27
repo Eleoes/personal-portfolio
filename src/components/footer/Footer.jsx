@@ -23,11 +23,11 @@ const Footer = () => {
 
                 <div className="footer__social">
                     <a href="https://www.linkedin.com/in/leonardo-escaroz-b1b47113b/" className="footer__social-link" target="_blank">
-                        <i class="uil uil-linkedin-alt"></i>
+                        <i className="bx bxl-linkedin-square"></i>
                     </a>
 
                     <a href="https://github.com/Eleoes" className="footer__social-link" target="_blank">
-                        <i class="uil uil-github-alt"></i>
+                        <i className="bx bxl-github"></i>
                     </a>
                 </div>
                 <span className="footer__copy">&#169; Leonardo Escaroz. All rights reserved</span>
