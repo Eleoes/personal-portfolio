@@ -34,6 +34,8 @@
     color: var(--title-color);
     font-weight: var(--font-medium);
     transition: .3s;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.5rem;
 }
 
 .nav__icon,
@@ -44,7 +46,8 @@
 
 .active-link,
 .nav__link:hover {
-    color: var(--title-color-dark);
+    background-color: var(--title-color-yellow);
+    color: var(--title-color);
 }
 
 .scroll-header {

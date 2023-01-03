@@ -90,6 +90,10 @@
     .contact__form {
         margin: 0 auto;
     }
+
+    .contact__content {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 576px) {

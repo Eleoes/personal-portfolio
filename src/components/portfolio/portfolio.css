@@ -15,8 +15,9 @@
 }
 
 .project__item:hover {
-    background-color: var(--title-color);
-    color: var(--container-color);
+    background-color: var(--title-color-yellow);
+    color: var(--title-color);
+    transition: .3s;
 }
 
 .portfolio__container {
@@ -62,8 +63,8 @@
 }
 
 .active-project {
-    background-color: var(--title-color);
-    color: var(--container-color)
+    background-color: var(--title-color-yellow);
+    color: var(--title-color);
 }
 
 .project__links {
